@@ -1,0 +1,10 @@
+v <- c("tena","Lala","monu","Rina")
+sort.result <- sort(v)
+print(sort.result)
+revsort.result <- sort(v, decreasing = TRUE)
+print(revsort.result)
+list1 <- list(c(2,5,3),21.3,sin)
+print(list1)
+
+M = matrix( c('a','a','b','c','b','s'), nrow = 2, ncol = 3)
+print(M)
